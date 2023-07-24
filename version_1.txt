@@ -1,8 +1,2 @@
-Hello everyone.
-I'am version 1.
-Good morning
-I am glad to see everybody
-Version 1.1
-Version 1.1.1
-Version 2.0
-3
+大家好，
+我是版本5
